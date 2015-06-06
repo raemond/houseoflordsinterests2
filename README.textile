@@ -1,0 +1,3 @@
+This scraper extracts the interests of members of the UK House of Lords, saving them as individual line items including the name of the member, the category of interest and the supplied text of the interest.
+
+A brief description of some analysis of this data can be found "here":http://www.ianhopkinson.org.uk/2011/11/house-of-lords-register-of-members-interests/.
